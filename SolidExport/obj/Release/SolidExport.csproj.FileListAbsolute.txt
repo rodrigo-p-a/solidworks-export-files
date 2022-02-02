@@ -1,0 +1,10 @@
+D:\mcu\repo\solidworks\SolidExport\SolidExport\bin\Release\SolidExport.exe.config
+D:\mcu\repo\solidworks\SolidExport\SolidExport\bin\Release\SolidExport.exe
+D:\mcu\repo\solidworks\SolidExport\SolidExport\bin\Release\SolidExport.pdb
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.csproj.SuggestedBindingRedirects.cache
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.Form1.resources
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.Properties.Resources.resources
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.csproj.GenerateResource.cache
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.csproj.CoreCompileInputs.cache
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.exe
+D:\mcu\repo\solidworks\SolidExport\SolidExport\obj\Release\SolidExport.pdb
